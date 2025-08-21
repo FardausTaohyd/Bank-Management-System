@@ -24,7 +24,7 @@ A comprehensive web-based application for managing bank accounts, built with PHP
 
 * **Database:** MySQL
 
-* **Frontend:** HTML, CSS, JavaScript (based on file structure, likely)
+* **Frontend:** HTML, CSS, JavaScript
 
 ## Prerequisites
 
